@@ -1,0 +1,4 @@
+yolo/*
+voc/*
+!voc/.gitkeep
+!yolo/.gitkeep
